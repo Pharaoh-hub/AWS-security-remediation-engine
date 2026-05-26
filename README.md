@@ -32,6 +32,8 @@ aws-security-remediation-engine/
 │   ├── iam_policies.tf             # Execution roles with strict resource locks
 │   └── eventbridge.tf              # Rule event patterns matching drifted states
 └── README.md
+
+
 👤 Maintainer
 Oladoye Toyeeb
 
